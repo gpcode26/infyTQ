@@ -11,8 +11,8 @@ Vehicle
 
 Attributes:
 vehicle_id
-vehicle_id
-vehicle_id
+vehicle_type
+vehicle_cost
 premium_amount
 
 Methods:
