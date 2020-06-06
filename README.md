@@ -1,2 +1,2 @@
 # infyTQ
-Problem solvinng
+Problem solving
